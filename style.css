@@ -1,0 +1,40 @@
+body
+{
+    background-color: rgb(230, 230, 230);
+    font-family:Arial, Helvetica, sans-serif;
+    color: #222;
+    margin-top: 100px;
+}
+h1
+{
+    background-color: #c3e2ee;
+    margin: 20px;
+    border: 2px solid slategray;
+}
+.soundboard
+{
+    background-color: #91b3c0;
+    border-radius: 20px;
+    margin: 0 auto;
+    width: 500px;
+    height: 150px;
+    text-align: center;
+    box-shadow: rgba(0,0,0, .1) 5px 5px 10px;
+    border: 2px solid slategrey;
+}
+.buttons
+{
+    border: 2px dotted slategrey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 20px;
+}
+#but1, #but2, #but3
+{
+    background-color: #c3e2ee;
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
